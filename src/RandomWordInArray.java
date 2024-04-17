@@ -40,7 +40,6 @@ public class RandomWordInArray {
                 System.out.println("Ви не вгадали. Правильні літери: " + hint.toString());
             }
         }
-
         scanner.close();
     }
 
